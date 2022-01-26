@@ -1,2 +1,4 @@
 # Coffee-Wifi-Project
-Flask, WTForms, Bootstrap and CSV. Start building dynamic web pages using Flask with templates and dynamic pages
+Start building dynamic web pages using Flask with templates and dynamic pages.
+
+100 Days of Code. Udemy. Day 62.
